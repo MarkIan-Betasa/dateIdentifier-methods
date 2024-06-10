@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dateIdentifier using methods", "dateIdentifier using methods.csproj", "{91900B8A-3D8C-4904-AC83-0A6E5F7C4D7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91900B8A-3D8C-4904-AC83-0A6E5F7C4D7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91900B8A-3D8C-4904-AC83-0A6E5F7C4D7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91900B8A-3D8C-4904-AC83-0A6E5F7C4D7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91900B8A-3D8C-4904-AC83-0A6E5F7C4D7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E5CEADB-A133-473F-B202-F0720157230F}
+	EndGlobalSection
+EndGlobal

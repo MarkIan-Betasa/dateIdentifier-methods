@@ -1,0 +1,15 @@
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\OOP method assignment\dateIdentifier using methods\bin\Debug\net8.0\dateIdentifier using methods.exe
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\OOP method assignment\dateIdentifier using methods\bin\Debug\net8.0\dateIdentifier using methods.deps.json
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\OOP method assignment\dateIdentifier using methods\bin\Debug\net8.0\dateIdentifier using methods.runtimeconfig.json
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\OOP method assignment\dateIdentifier using methods\bin\Debug\net8.0\dateIdentifier using methods.dll
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\OOP method assignment\dateIdentifier using methods\bin\Debug\net8.0\dateIdentifier using methods.pdb
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\OOP method assignment\dateIdentifier using methods\obj\Debug\net8.0\dateIdentifier using methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\OOP method assignment\dateIdentifier using methods\obj\Debug\net8.0\dateIdentifier using methods.AssemblyInfoInputs.cache
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\OOP method assignment\dateIdentifier using methods\obj\Debug\net8.0\dateIdentifier using methods.AssemblyInfo.cs
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\OOP method assignment\dateIdentifier using methods\obj\Debug\net8.0\dateIdentifier using methods.csproj.CoreCompileInputs.cache
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\OOP method assignment\dateIdentifier using methods\obj\Debug\net8.0\dateIdentifier using methods.sourcelink.json
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\OOP method assignment\dateIdentifier using methods\obj\Debug\net8.0\dateIdentifier using methods.dll
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\OOP method assignment\dateIdentifier using methods\obj\Debug\net8.0\refint\dateIdentifier using methods.dll
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\OOP method assignment\dateIdentifier using methods\obj\Debug\net8.0\dateIdentifier using methods.pdb
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\OOP method assignment\dateIdentifier using methods\obj\Debug\net8.0\dateIdentifier using methods.genruntimeconfig.cache
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\OOP method assignment\dateIdentifier using methods\obj\Debug\net8.0\ref\dateIdentifier using methods.dll
