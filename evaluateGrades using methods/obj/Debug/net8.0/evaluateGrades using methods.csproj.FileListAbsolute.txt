@@ -1,0 +1,15 @@
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\evaluateGrades using methods\bin\Debug\net8.0\evaluateGrades using methods.exe
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\evaluateGrades using methods\bin\Debug\net8.0\evaluateGrades using methods.deps.json
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\evaluateGrades using methods\bin\Debug\net8.0\evaluateGrades using methods.runtimeconfig.json
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\evaluateGrades using methods\bin\Debug\net8.0\evaluateGrades using methods.dll
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\evaluateGrades using methods\bin\Debug\net8.0\evaluateGrades using methods.pdb
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\evaluateGrades using methods\obj\Debug\net8.0\evaluateGrades using methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\evaluateGrades using methods\obj\Debug\net8.0\evaluateGrades using methods.AssemblyInfoInputs.cache
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\evaluateGrades using methods\obj\Debug\net8.0\evaluateGrades using methods.AssemblyInfo.cs
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\evaluateGrades using methods\obj\Debug\net8.0\evaluateGrades using methods.csproj.CoreCompileInputs.cache
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\evaluateGrades using methods\obj\Debug\net8.0\evaluateGrades using methods.sourcelink.json
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\evaluateGrades using methods\obj\Debug\net8.0\evaluateGrades using methods.dll
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\evaluateGrades using methods\obj\Debug\net8.0\refint\evaluateGrades using methods.dll
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\evaluateGrades using methods\obj\Debug\net8.0\evaluateGrades using methods.pdb
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\evaluateGrades using methods\obj\Debug\net8.0\evaluateGrades using methods.genruntimeconfig.cache
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\evaluateGrades using methods\obj\Debug\net8.0\ref\evaluateGrades using methods.dll
