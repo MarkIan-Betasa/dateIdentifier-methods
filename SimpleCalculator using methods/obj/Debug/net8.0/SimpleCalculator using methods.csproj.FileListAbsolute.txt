@@ -1,0 +1,15 @@
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\SimpleCalculator using methods\bin\Debug\net8.0\SimpleCalculator using methods.exe
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\SimpleCalculator using methods\bin\Debug\net8.0\SimpleCalculator using methods.deps.json
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\SimpleCalculator using methods\bin\Debug\net8.0\SimpleCalculator using methods.runtimeconfig.json
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\SimpleCalculator using methods\bin\Debug\net8.0\SimpleCalculator using methods.dll
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\SimpleCalculator using methods\bin\Debug\net8.0\SimpleCalculator using methods.pdb
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\SimpleCalculator using methods\obj\Debug\net8.0\SimpleCalculator using methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\SimpleCalculator using methods\obj\Debug\net8.0\SimpleCalculator using methods.AssemblyInfoInputs.cache
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\SimpleCalculator using methods\obj\Debug\net8.0\SimpleCalculator using methods.AssemblyInfo.cs
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\SimpleCalculator using methods\obj\Debug\net8.0\SimpleCalculator using methods.csproj.CoreCompileInputs.cache
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\SimpleCalculator using methods\obj\Debug\net8.0\SimpleCalculator using methods.sourcelink.json
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\SimpleCalculator using methods\obj\Debug\net8.0\SimpleCalculator using methods.dll
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\SimpleCalculator using methods\obj\Debug\net8.0\refint\SimpleCalculator using methods.dll
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\SimpleCalculator using methods\obj\Debug\net8.0\SimpleCalculator using methods.pdb
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\SimpleCalculator using methods\obj\Debug\net8.0\SimpleCalculator using methods.genruntimeconfig.cache
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\SimpleCalculator using methods\obj\Debug\net8.0\ref\SimpleCalculator using methods.dll
